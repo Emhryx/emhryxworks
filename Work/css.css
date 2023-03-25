@@ -1,0 +1,83 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+body{
+	background: url(bg.jpg);
+	background-size: cover;
+}
+.main{
+	margin: 0px;
+	padding: 0px
+
+}
+.navbar{
+	margin: 0px 0px;
+	display: flex;
+	background-color: rgb(034,095,066);
+	align-items: center;
+	text-decoration: none;
+	justify-content: space-around;
+
+}
+.navbar a{
+	margin: 0px 50px;
+	color: black;
+	text-decoration: none;
+	font-size: 30px;
+	font-weight: bold;
+}
+.cafe{
+	position: relative;
+	top:-500px;
+	left: 300px;
+	font-size: 80px;
+	font-weight: bolder;
+	font-style: oblique;
+	font-family: algerian;
+	color: white;
+	text-shadow: currentColor;
+}
+.cri{
+	position: relative;
+	top: -700px;
+	left: 300px;
+	color: yellow;
+	font-size: 60px;
+	font-weight: bold;
+	font: italic;
+	font-family: sans-serif;
+}
+.sh{
+	margin: -200px 0px;
+	color: yellow;
+	font-size: 50px;
+	text-align: center;
+	font-weight: bolder;
+}
+.left{
+	margin-left: 40px;
+	margin-top: 250px;
+
+	}
+	.text{
+		margin-left: 300px;
+		margin-top: -200px;  
+		font-size: 40px;
+		color: whitesmoke;
+		font-weight: bold;
+
+
+	}
+	.text2{
+		margin-top: -10px;
+		margin-left:300px;
+		font-size: 30px;
+		font-weight: bold;
+		color: lightblue;
+
+	}
+	.btn{
+		margin-left: 300px;
+		box-sizing: 10px;
+	}
